@@ -68,3 +68,38 @@ The [OKR](https://medium.com/startup-tools/okrs-5afdc298bc28) framework – shor
 
 ### Frequency
 Goals are usually set on an annual basis. However, it's important to add quarterly milestones (with goals) and add pacing on a continuous basis. This ensures the team and leadership know how they are tracking toward the broader goal. 
+
+
+# Execution
+
+### Overview
+Proper execution is about efficiency. It increases the velocity of the team. In a resource constrained environment, velocity is crucial.
+
+### Deliverables
+The Product Manager is responsible for building an operating system for the team. The operating system is defined as a set of tools and processes used to track upcoming and ongoing work.
+
+**Roadmap:** there are a million ways to track your team’s progress against the roadmap: a spreadhseheet, JIRA, Asana, Trello, post-it notes, etc. What’s important is that each member can easily access the essential information: their priorities, upcoming projects, coordination across functions and alignment on project commitments for that quarter. Also consider what other teams at the company are using. 
+
+**Unified process:** Each product team should have a product backlog and use a sprint-driven process. The Product Manager is responsible for leading the team in how they work, a strong partnership with the Engineering Manager and Design Lead is critical, and individual duties are shared across the whole team. 
+
+Typical activities required for a robust product backlog:
+   * Create a list of user stories
+   * Prioritize the stories
+   * Add detail / further refine the stories
+   * Estimate stories
+
+Activities across the sprint:
+   * Define sprint process and meeting cadence
+   Groom backlog
+   Host a sprint planning meeting
+   Conduct the sprint
+   Host wrap-up: demo and retrospective
+
+**Brainstorming:** There are many ways to brainstorm the list of user stories, but what’s important is that not all ideas come from the PM (or any single person). Accordingly, we recommend hosting a brainstorm at least once a quarter. Data science and research should inform the discussion, then select a few critical questions to explore for the coming quarter. Once digitized, capture these ideas and update the status on them. This will close the loop on the process and increase trust that ideas can come from anywhere. 
+
+**Planning documentation:** Create planning documents for feedback, coordination and sharing. Prepare a quarterly plan and distribute this to stakeholders within and around the team. At the end of the quarter, create a wrap-up document that captures learnings and holds the team accountable to work they committed to accomplish. This improves future planning processes and increases the accuracy of estimates. 
+
+**Team Meeting:** In addition to sprint meetings, a bi-weekly team meeting that focuses on short, medium, and long-term team needs is also recommended. 
+
+**Leadership Check-In:** Check-in every week (or bi-weekly, depending on product velocity) with product leadership. This time is used to provide update on work, ask strategic questions and highlight blockers. 
+

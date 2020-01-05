@@ -1,5 +1,5 @@
 # PM Reading List 
-*The current reading list for my product management class; posted on Github so other can contribute readings/articles*
+*The (truncated) reading list for my product management class (see xlxs file for full list); posted on Github so other can contribute readings/articles*
 
 ## What is a PM anyways?
 
@@ -39,4 +39,4 @@ This is currently maintained by [@jiaonaz](https://github.com/jiaonaz). If you a
 
 ## Contribute
 
-If you have additional readings, [open an issue](https://github.com/raylene/eng-handbook/issues/new/choose) or submit some PRs.
+If you have additional readings, [open an issue](https://github.com/jiaonaz/pm-resources/issues/new/choose) or submit some PRs.

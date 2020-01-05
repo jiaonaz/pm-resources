@@ -1,5 +1,5 @@
 # PM Reading List 
-*The (truncated) reading list for my product management class (see xlxs file for full list); posted on Github so other can contribute readings/articles*
+*The (truncated) reading list for my product management class (see xlxs file for full list); posted on Github so others can contribute readings/articles*
 
 ## What is a PM anyways?
 

@@ -29,7 +29,7 @@ Don’t forget: Your vision and mission are not the path (or “how”) we get t
 
 ### Examples
 
-_Content Moderation at Facebook 
+_Content Moderation at Facebook_ 
    * _Vision: User generated content is safe and trusted._ 
    * _Mission: Ensure user generated content is appropriate and free of malicious intent._ 
 
@@ -90,10 +90,10 @@ Typical activities required for a robust product backlog:
 
 Activities across the sprint:
    * Define sprint process and meeting cadence
-   Groom backlog
-   Host a sprint planning meeting
-   Conduct the sprint
-   Host wrap-up: demo and retrospective
+   * Groom backlog
+   * Host a sprint planning meeting
+   * Conduct the sprint
+   * Host wrap-up: demo and retrospective
 
 **Brainstorming:** There are many ways to brainstorm the list of user stories, but what’s important is that not all ideas come from the PM (or any single person). Accordingly, we recommend hosting a brainstorm at least once a quarter. Data science and research should inform the discussion, then select a few critical questions to explore for the coming quarter. Once digitized, capture these ideas and update the status on them. This will close the loop on the process and increase trust that ideas can come from anywhere. 
 
@@ -101,5 +101,11 @@ Activities across the sprint:
 
 **Team Meeting:** In addition to sprint meetings, a bi-weekly team meeting that focuses on short, medium, and long-term team needs is also recommended. 
 
-**Leadership Check-In:** Check-in every week (or bi-weekly, depending on product velocity) with product leadership. This time is used to provide update on work, ask strategic questions and highlight blockers. 
+**Reporting:** Reporting increases efficiency. If leadership and other teams know about the work that is happening, they can more easily spot misalignment. This increased visibility also enables them to support the team more quickly, when needed. Work with your manager to pick one, or both of the following ways of reporting:
 
+   * Recurring Status Email: Send an email on a recurring basis (frequency is flexible) to leadership and relevant teams.The content of the email is also flexible, but a format that has worked well is: surface your most important projects, identify where they are in development, and highlight any potential risks, or blockers. 
+   * Recurring Product Review Meeting: Meet with leadership in your org (product management, design, engineering) in order to share out your latest strategy, prioritization, and execution of your roadmap. Bubble up any concerns you have and hear out your leadership’s concerns. This is a very valuable opportunity to obtain feedback on complex decisions that your team needs to make.  
+
+Building a clean, usable dashboard is a great passive communication tool for both the team, and partner teams. The most important aspect of any dashboard is that it should be easy to parse. Stress test this asking someone unfamiliar with the work to draw conclusions from the data.
+
+**Attribution:** An eternal questions is “what was the incremental impact of your team?” Without an agree-upon attribution framework, it can be difficult to explain what your team contributed beyond what would’ve happened anyway. There are no perfect counterfactuals. To help, employ A/B testing when relevant to run clean experiments to demonstrate incremental impact. From there, use either tops-down (against a forecast) or bottoms-up (counting each experiment) attribution to report the impact of your team’s work. Some teams are better suited for both setting up and benefiting from attribution (e.g. growth teams). There are times when you're working on a zero to one product, where attribution can be much tougher; do your best and work with leadership on define what success looks like. 

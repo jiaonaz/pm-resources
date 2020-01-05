@@ -55,3 +55,16 @@ Strategies apply at both the team level, and at the project level.
 
 ### Frequency
 Should be aligned to overall team/org/company planning. Typically, plan team strategies for at least a quarter to a half. Evaluate every six weeks and identify and iterate on what's not working. Project prioritization should also be planned for 6 weeks to a quarter, and re-evaluated prior to starting each sprint (again, can depend on your team's cadence).
+
+
+# Goal Setting
+
+### Overview
+Goals provide alignment at the team and organizational level, “You make what you measure.” They provide a clear way for each group to express value to the organization. Once the goals are set, you need to consider how to track and attribute efforts against them.
+
+### Deliverables
+The [OKR](https://medium.com/startup-tools/okrs-5afdc298bc28) framework – short for Objectives and Key Results — is a good one for tracking goals . An objective is a qualitative goal that will take many months, or even years to accomplish. The key results are measurable steps you need in order to meet your objectives. It makes sense to use OKRs if your entire company or organization uses that format, so that it's clear how the OKRs cascade. If your company does not use the OKR framework, an alternative to ensure that your results are measurable is another framework called SMART goals. SMART goals are specific, measurable, actionable, relevant, and time-bound. To learn more, this [video](https://www.youtube.com/watch?v=1-SvuFIQjK8) and [link](https://www.smartsheet.com/blog/essential-guide-writing-smart-goals) do a good job explaining. 
+
+
+### Frequency
+Goals are usually set on an annual basis. However, it's important to add quarterly milestones (with goals) and add pacing on a continuous basis. This ensures the team and leadership know how they are tracking toward the broader goal. 

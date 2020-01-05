@@ -39,3 +39,19 @@ _Host Success_
 
 ### Frequency
 It should happen within the first three months of joining a team, or as a first thing when a new team is formed. Check-in every year after that.
+
+
+# Strategy & Prioritization
+
+### Overview
+Strategies help you answer ‘how’ you will meet your vision. Clear strategies ensures that your team are working on the right things. By working on the most important areas first, you increase the impact of your work.
+
+### Deliverables
+Strategies apply at both the team level, and at the project level.
+
+**Team Strategies:** Each team should have a short list of strategies (often 3-4) that align the team’s work. Before you create team strategies, consider your environment. Every company works differently, and your strategies should work within yours. It can be helpful to brainstorm with your team the unique challenges of your environment, prior to you discussion on strategies. Once ready, a team can arrive at strategies by identifying options and creating themes.
+
+**Project Prioritization:** Your team should also prioritize upcoming projects. A tried and true prioritization framework is [RICE](https://www.intercom.com/blog/rice-simple-prioritization-for-product-managers/) – or (Reach x Impact x Confidence) / Effort. As an alternative, you can stack rank your team’s strategies, and make an assessment about which projects will have the largest impact on each strategy.
+
+### Frequency
+Should be aligned to overall team/org/company planning. Typically, plan team strategies for at least a quarter to a half. Evaluate every six weeks and identify and iterate on what's not working. Project prioritization should also be planned for 6 weeks to a quarter, and re-evaluated prior to starting each sprint (again, can depend on your team's cadence).

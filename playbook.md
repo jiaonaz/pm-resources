@@ -5,7 +5,7 @@ Every team needs a strong vision. The vision keeps the team aligned, enables eac
 
 **Vision vs. Mission:** Many teams and companies use these terms interchangeably, but they are different and serve different needs. This [site](https://www.clearvoice.com/blog/difference-between-mission-vision-statement-examples/) does a good job explaining the difference between the two, which can be summarized as follows:  
 
-   * Vision: What the team wants to be true for Airbnb  
+   * Vision: What the team wants to be true for the company  
    * Mission: What the team aims to accomplish  
 
 ### Deliverables
@@ -29,11 +29,11 @@ Don’t forget: Your vision and mission are not the path (or “how”) we get t
 
 ### Examples
 
-_Content Moderation_ 
+_Content Moderation at Facebook 
    * _Vision: User generated content is safe and trusted._ 
    * _Mission: Ensure user generated content is appropriate and free of malicious intent._ 
 
-_Host Success_
+_Hosting at Airbnb_
    * _Vision: Every host on Airbnb is the best entrepreneur they can be._
    * _Mission: Help each host reach their potential._
 

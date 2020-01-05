@@ -4,7 +4,7 @@
 ## What is a PM anyways?
 
 * [Good Product Manager/Bad Product Manager](https://a16z.com/2012/06/15/good-product-managerbad-product-manager/) by Ben Horowitz
-* [Leading Cross-functional Teams: Always bring the donuts](https://www.kennorton.com/essays/leading-cross-functional-teams.html) by Ken Norton
+* [Leading Cross-functional Teams: Always Bring the Donuts](https://www.kennorton.com/essays/leading-cross-functional-teams.html) by Ken Norton
 * [Product Visionary vs. Product Leader](http://caseyaccidental.com/product-visionary-vs-product-leader/amp/) by Casey Winters
 * [A Product Manager’s Job](https://medium.com/@joshelman/a-product-managers-job-63c09a43d0ec) by Josh Elman
 * [Product Manager, You Are… A Janitor, Essentially](https://medium.com/all-things-product-management/product-manager-you-are-664d83ee702e) by Mat Balez

@@ -109,3 +109,32 @@ Activities across the sprint:
 Building a clean, usable dashboard is a great passive communication tool for both the team, and partner teams. The most important aspect of any dashboard is that it should be easy to parse. Stress test this asking someone unfamiliar with the work to draw conclusions from the data.
 
 **Attribution:** An eternal questions is “what was the incremental impact of your team?” Without an agree-upon attribution framework, it can be difficult to explain what your team contributed beyond what would’ve happened anyway. There are no perfect counterfactuals. To help, employ A/B testing when relevant to run clean experiments to demonstrate incremental impact. From there, use either tops-down (against a forecast) or bottoms-up (counting each experiment) attribution to report the impact of your team’s work. Some teams are better suited for both setting up and benefiting from attribution (e.g. growth teams). There are times when you're working on a zero to one product, where attribution can be much tougher; do your best and work with leadership on define what success looks like. 
+
+
+# Team Culture
+
+### Overview
+A healthy team depends on trust and strong interpersonal ties. These can be hard to build in a work-only environment. By building a strong team culture, you can ensure people enjoy coming to work each day, are motivated to do their best work, and stay with the team. 
+
+On a product team, the PM will either be one of the leaders or *the* leader. As a leader, it is vital that you establish a great team culture so that the team’s full potential can be realized. A good team culture means that each member of the team feels like they belong on the team, and at the company. A toxic culture causes team members to question their role on the team, or worse, at the company.
+
+### Building an Amazing Culture
+   * **Celebrate Wins:** After you launch a project, celebrate the milestone with your team! This could be something as simple as a launch email, and more intricate as a project team lunch. Celebrating team wins shows team members how fun it is to work as a group to overcome a challenge together. 
+
+   * **Acknowledge Good Work:** Always give credit to team members. If there is an organizational award that you can nominate team members for, put in the time to nominate someone in your team. 
+
+   * **Cultivate a Culture of Appreciation:** Related to acknowledging good work, appreciate team members who help out with tasks. In regular team meetings, carve out a portion of the agenda that allows team members to appreciate one another (e.g. “I appreciate Sara for stamping my PR yesterday and giving me good feedback on my code changes.”) 
+
+   * **Foster Effective Communication:** Make sure that everyone in your team understands how others in your team prefer to be communicated with. For example, some team members dislike context switching and would prefer that you don’t go up to them as they are coding away listening to music (they’d rather you send them an email or Slack). Other team members may find email and Slack impersonal and would rather dive into something with you in-person. There is no right answer and the key thing is for the team to know how others in the team want to be communicated with, and to establish those norms as a group. 
+
+   * **Stop Interrupting:** Train yourself and your team to stop interrupting people when they talk. Interrupting others is something we all do, but we can all do less of by being present to the fact that from time to time, we interrupt. Raise this issue with your team so that it is top of mind, and encourage the team to feel empowered to call out when someone interrupts them in a meeting or in a 1-1 conversation. Related to interrupting, make sure that you take unconscious bias training. 
+
+   * **Celebrate Birthdays & Anniversaries:** Whether it is something as simple as wishing a team member a happy birthday or happy anniversary over Slack, or something a little more thought out like getting the whole team to sign a card for him/her, or even more thought out like taking someone out for lunch, finding these extra reasons to celebrate life’s milestones will foster a sense of joy amongst the team. 
+ 
+   * **Conduct Retrospectives & Learn From Mistakes:** At least once a quarter, do a team retrospective where the entire team asks itself what can be done from a process standpoint to improve the team. In this retrospective, there will surely be ideas that are raised that will not only improve execution velocity and the team’s product, but as importantly, the team’s culture. Make sure everyone in the team feels heard. 
+
+   * **Give Facetime to the Team:** Make yourself available to your team in the form of 1:1s. Speak with the relevant team members and set up a cadence where you are being useful to the team member, but it is not taking up a prohibitive amount of your overall bandwidth. 
+
+   * **Team Offsites:** One of the best ways to bring the team together is through a team offsite. Some ideas: Escape rooms, Cooking classes, and a team hike (great for teams on a budget!)
+ 
+   * **Give Visibility to your Team:**  Find ways to have other team members present the work your team is doing. People get sick of hearing the PM talk all the time and the team member will feel empowered if they are asked to present something when they typically are not front-and-center presenting something. 

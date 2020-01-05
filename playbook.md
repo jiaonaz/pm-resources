@@ -18,10 +18,11 @@ Every team needs a strong vision. The vision keeps the team aligned, enables eac
 * Buy-in is critical, and the Product Manager will need to make the final call as they are ultimately responsible.
 
 Keep in mind, the final vision statement should be a piece of the company’s broader vision, and the final mission statement should be achievable by the team and ladder up to the mission of the larger department and organization. 
+
 **Leadership Alignment:** Once the team has these statements, it is important to meet with leadership and partner teams to communicate the team’s intended directive and get feedback. This will be particularly helpful in the future when you need to make hard tradeoffs. This early alignment will made these decisions easier.
 
 Responsible | Accountable | Consulted | Informed
---- | --- | ---
+--- | --- | --- | ---
 Core team | Product Manager | Leadership, and partner teams | Department and organization
 
 Don’t forget: Your vision and mission are not the path (or “how”) we get to that end state. That is articulated by your strategy – and it comes next.
